@@ -1,1 +1,1 @@
-
+As the Data Analyst at GloBox, our responsibility involves analyzing the outcomes of a critical A/B test aimed at boosting the prominence of their rapidly expanding food and beverage category. This test focuses on featuring essential products within the food and drink section using a banner on the mobile website.
